@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://robadillo.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://robadillo.github.io/task-management-frontend/static/js/main.aa51ecb1.chunk.js",
+    "main.js.map": "https://robadillo.github.io/task-management-frontend/static/js/main.aa51ecb1.chunk.js.map",
+    "runtime~main.js": "https://robadillo.github.io/task-management-frontend/static/js/runtime~main.94bfa2e2.js",
+    "runtime~main.js.map": "https://robadillo.github.io/task-management-frontend/static/js/runtime~main.94bfa2e2.js.map",
+    "static/js/2.bdf9e213.chunk.js": "https://robadillo.github.io/task-management-frontend/static/js/2.bdf9e213.chunk.js",
+    "static/js/2.bdf9e213.chunk.js.map": "https://robadillo.github.io/task-management-frontend/static/js/2.bdf9e213.chunk.js.map",
+    "index.html": "https://robadillo.github.io/task-management-frontend/index.html",
+    "precache-manifest.b0f7901154fa736698525a76750a7b23.js": "https://robadillo.github.io/task-management-frontend/precache-manifest.b0f7901154fa736698525a76750a7b23.js",
+    "service-worker.js": "https://robadillo.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://robadillo.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
